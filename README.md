@@ -54,7 +54,7 @@ dotnet run --project Integration.OrderService/Integration.OrderService.csproj
 ```
 
 3. Открой Swagger UI:
-   - `http://localhost:5002/swagger`
+   - `http://localhost:5012/swagger`
 
 ## Важно для студентов
 
